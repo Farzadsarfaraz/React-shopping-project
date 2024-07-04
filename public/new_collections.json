@@ -1,0 +1,106 @@
+[
+  {
+    "id": 1,
+    "name": "Gandi Aghani",
+    "image": "./cl.webp",
+    "new_price": 45,
+    "old_price": 55,
+    "description": "Afghan Cloths"
+  },
+  {
+    "id": 6,
+    "name": "Gandi Aghani",
+    "image": "./cl1.webp",
+    "new_price": 45,
+    "old_price": 55,
+    "description": "Afghan Cloths"
+  },
+  {
+    "id": 5,
+    "name": "Gandi Aghani",
+    "image": "./cl2.webp",
+    "new_price": 45,
+    "old_price": 55,
+    "description": "Afghan Cloths"
+  },
+  {
+    "id": 2,
+    "name": "Gandi Aghani",
+    "image": "./cl1.webp",
+    "new_price": 45,
+    "old_price": 55,
+    "description": "Afghan Cloths"
+  },
+  {
+    "id": 3,
+    "name": "Gandi Aghani",
+    "image": "./cl2.webp",
+    "new_price": 45,
+    "old_price": 55,
+    "description": "Afghan Cloths"
+  },
+  {
+    "id": 9,
+    "name": "Gandi Aghani",
+    "image": "./cl.webp",
+    "new_price": 45,
+    "old_price": 55,
+    "description": "Afghan Cloths"
+  },
+  {
+    "id": 9,
+    "name": "Gandi Aghani",
+    "image": "./Gand1.webp",
+    "new_price": 45,
+    "old_price": 55,
+    "description": "Afghan Cloths"
+  },
+  {
+    "id": 9,
+    "name": "Gandi Aghani",
+    "image": "./Gand2.webp",
+    "new_price": 45,
+    "old_price": 55,
+    "description": "Afghan Cloths"
+  },
+  {
+    "id": 9,
+    "name": "Gandi Aghani",
+    "image": "./Gand3.webp",
+    "new_price": 45,
+    "old_price": 55,
+    "description": "Afghan Cloths"
+  },
+  {
+    "id": 9,
+    "name": "Gandi Aghani",
+    "image": "./Gand4.webp",
+    "new_price": 45,
+    "old_price": 55,
+    "description": "Afghan Cloths"
+  },
+  {
+    "id": 9,
+    "name": "Gandi Aghani",
+    "image": "./Gand5.webp",
+    "new_price": 45,
+    "old_price": 55,
+    "description": "Afghan Cloths"
+  },
+  {
+    "id": 9,
+    "name": "Gandi Aghani",
+    "image": "./Gand5.webp",
+    "new_price": 45,
+    "old_price": 55,
+    "description": "Afghan Cloths"
+  },
+  {
+    "id": 9,
+    "name": "Gandi Aghani",
+    "image": "./Gand7.webp",
+    "new_price": 45,
+    "old_price": 55,
+    "description": "Afghan Cloths"
+  }
+]

@@ -1,8 +1,10 @@
 import './NewCollections.css'
-import new_collections from '../assets/new_collections/NewCollections'
 import Item from '../Item/Item'
+import new_collections from '../../../public/new_collections.json'
+
 
 const NewCollections = () => {
+
   return (
     <div className='new-collections'>
         <h1>NEW COLLECTIONS</h1>
