@@ -13,18 +13,24 @@
   line-height: 1.1;
 }
 .hero-left h2 {
-  color: #090909;
+  color: #362e2e;
   font-size: 56px;
-  font-weight: 800;
+  font-weight: 600;
+  font-family: Georgia, "Times New Roman", Times, serif;
 }
 .hero-left span {
-  color: #9f1212;
-  font-weight: 800;
+  color: #aea918;
+  font-weight: 620;
 }
 .hero-hand-icon {
   display: flex;
   align-items: center;
   gap: 20px;
+}
+p {
+  font-size: 25px;
+  font-weight: 600;
+  color: #362e2e;
 }
 .hero-hand-icon img {
   width: 105px;
@@ -45,6 +51,7 @@
 }
 .hero-latest-btn img {
   border-radius: 60%;
+  rotate: 90deg;
 }
 .hero-right {
   flex: 1;

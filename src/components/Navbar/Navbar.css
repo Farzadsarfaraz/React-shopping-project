@@ -6,6 +6,7 @@
 .nav-logo img{
     height: 90px;
     width: 90px;
+    box-shadow: 0 1px 3px -2px black;
 }
 .nav-menu{
     display: flex;
@@ -22,6 +23,9 @@
     justify-content: center;
     gap: 3px;
     cursor: pointer;
+    box-shadow: 0 1px 3px -2px black;
+    padding: 20px;
+    border-radius: 20px;
 }
 .nav-menu hr{
     border: none;

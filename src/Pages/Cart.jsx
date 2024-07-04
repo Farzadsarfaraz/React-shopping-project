@@ -1,9 +1,10 @@
 
-
 const Cart = () => {
   return (
-    <div>Cart</div>
-  )
-}
+    <div>
+      <h1> This is cart</h1>
+    </div>
+  );
+};
 
 export default Cart
