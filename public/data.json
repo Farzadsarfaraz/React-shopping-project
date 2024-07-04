@@ -9,6 +9,7 @@
     },
     {
         "id": 6,
+        "name": "Gandi Aghani",
         "image": "./cloths (2).webp",
         "new_price": 45,
         "old_price": 55,
@@ -16,6 +17,7 @@
     },
     {
         "id": 5,
+        "name": "Gandi Aghani",
         "image": "./cloths (3).webp",
         "new_price": 45,
         "old_price": 55,
@@ -23,6 +25,7 @@
     },
     {
         "id": 2,
+        "name": "Gandi Aghani",
         "image": "./cloths (4).webp",
         "new_price": 45,
         "old_price": 55,
@@ -30,6 +33,7 @@
     },
     {
         "id": 3,
+        "name": "Gandi Aghani",
         "image": "./cloths (5).webp",
         "new_price": 45,
         "old_price": 55,
@@ -37,20 +41,7 @@
     },
     {
         "id": 9,
-        "image": "./cloths (6).webp",
-        "new_price": 45,
-        "old_price": 55,
-        "description": "Afghan Cloths"
-    },
-    {
-        "id": 10,
-        "image": "./cloths (6).webp",
-        "new_price": 45,
-        "old_price": 55,
-        "description": "Afghan Cloths"
-    },
-    {
-        "id": 11,
+        "name": "Gandi Aghani",
         "image": "./cloths (6).webp",
         "new_price": 45,
         "old_price": 55,
