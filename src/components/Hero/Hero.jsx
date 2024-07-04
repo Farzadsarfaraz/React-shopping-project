@@ -3,6 +3,7 @@ import hand_icon from "./../assets/iconHand.gif";
 import HomeImage from "./../assets/pic12.png";
 import logo from "./../assets/rightLogo.gif";
 
+
 const Hero = () => {
   return (
     <div className="hero">
