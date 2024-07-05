@@ -5,7 +5,8 @@
     "image": "./cl.webp",
     "new_price": 45,
     "old_price": 55,
-    "description": "Afghan Cloths"
+    "description": "Afghan Cloths",
+    "category": "women"
   },
   {
     "id": 6,
@@ -13,7 +14,8 @@
     "image": "./cl1.webp",
     "new_price": 45,
     "old_price": 55,
-    "description": "Afghan Cloths"
+    "description": "Afghan Cloths",
+    "category": "women"
   },
   {
     "id": 5,
@@ -21,7 +23,8 @@
     "image": "./cl2.webp",
     "new_price": 45,
     "old_price": 55,
-    "description": "Afghan Cloths"
+    "description": "Afghan Cloths",
+    "category": "women"
   },
   {
     "id": 2,
@@ -29,7 +32,8 @@
     "image": "./cl1.webp",
     "new_price": 45,
     "old_price": 55,
-    "description": "Afghan Cloths"
+    "description": "Afghan Cloths",
+    "category": "women"
   },
   {
     "id": 3,
@@ -37,7 +41,8 @@
     "image": "./cl2.webp",
     "new_price": 45,
     "old_price": 55,
-    "description": "Afghan Cloths"
+    "description": "Afghan Cloths",
+    "category": "women"
   },
   {
     "id": 9,
@@ -45,7 +50,8 @@
     "image": "./cl.webp",
     "new_price": 45,
     "old_price": 55,
-    "description": "Afghan Cloths"
+    "description": "Afghan Cloths",
+    "category": "women"
   },
   {
     "id": 9,
@@ -53,7 +59,8 @@
     "image": "./Gand1.webp",
     "new_price": 45,
     "old_price": 55,
-    "description": "Afghan Cloths"
+    "description": "Afghan Cloths",
+    "category": "women"
   },
   {
     "id": 9,
@@ -61,7 +68,8 @@
     "image": "./Gand2.webp",
     "new_price": 45,
     "old_price": 55,
-    "description": "Afghan Cloths"
+    "description": "Afghan Cloths",
+    "category": "women"
   },
   {
     "id": 9,
@@ -69,7 +77,8 @@
     "image": "./Gand3.webp",
     "new_price": 45,
     "old_price": 55,
-    "description": "Afghan Cloths"
+    "description": "Afghan Cloths",
+    "category": "women"
   },
   {
     "id": 9,
@@ -77,7 +86,8 @@
     "image": "./Gand4.webp",
     "new_price": 45,
     "old_price": 55,
-    "description": "Afghan Cloths"
+    "description": "Afghan Cloths",
+    "category": "women"
   },
   {
     "id": 9,
@@ -85,7 +95,8 @@
     "image": "./Gand5.webp",
     "new_price": 45,
     "old_price": 55,
-    "description": "Afghan Cloths"
+    "description": "Afghan Cloths",
+    "category": "women"
   },
   {
     "id": 9,
@@ -93,7 +104,8 @@
     "image": "./pic12.png",
     "new_price": 45,
     "old_price": 55,
-    "description": "Afghan Cloths"
+    "description": "Afghan Cloths",
+    "category": "women"
   },
   {
     "id": 9,
@@ -101,6 +113,7 @@
     "image": "./Gand7.webp",
     "new_price": 45,
     "old_price": 55,
-    "description": "Afghan Cloths"
+    "description": "Afghan Cloths",
+    "category": "women"
   }
 ]
