@@ -1,8 +1,6 @@
 import "./Hero.css";
-import hand_icon from "./../assets/iconHand.gif";
-import HomeImage from "./../assets/pic12.png";
+import HomeImage from "./../assets/pic16.png";
 import logo from "./../assets/rightLogo.gif";
-
 
 const Hero = () => {
   return (
@@ -12,10 +10,20 @@ const Hero = () => {
           Gandi <span>AfGHaNi...</span>
         </h2>
         <div className="hero-hand-icon">
-          <p>Afghan traditional cloths</p>
-          <img src={hand_icon} alt="" />
+          <p>
+            Explore verity of our Kuchi & Vintage Dresses collection purely made
+            with hands, filter with color, style & pricing. More than 90% off
+            our design are custom made so if you want to customize the dress you
+            have 100% freedom to change size, color & embroidery.
+          </p>
         </div>
-        <p>Collection for Everyone</p>
+        <br />
+          <ul>
+            <li>Vintage Dresses</li>
+            <li>Nikah & Wedding Dresses</li>
+            <li>Mehndi Dresses</li>
+            <li>Party Dresses</li>
+          </ul>
         <div className="hero-latest-btn">
           <div>You want to see?</div>
           <img src={logo} alt="" />

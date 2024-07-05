@@ -2,7 +2,9 @@
 
 function ShopCategory() {
   return (
-    <div>This is Shopping category</div>
+    <div>
+      
+    </div>
   )
 }
 

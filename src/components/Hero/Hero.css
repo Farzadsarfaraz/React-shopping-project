@@ -1,5 +1,4 @@
 .hero {
-  height: 100vh;
   background: linear-gradient(180deg, #fde1ff 0%, #e1ffea22 60%);
   display: flex;
 }
@@ -27,9 +26,9 @@
   align-items: center;
   gap: 20px;
 }
-p {
-  font-size: 25px;
-  font-weight: 600;
+p, ul{
+  font-size: 18px;
+  font-weight: 400;
   color: #362e2e;
 }
 .hero-hand-icon img {
@@ -48,6 +47,7 @@ p {
   color: white;
   font-size: 15px;
   font-weight: 500;
+  cursor: pointer;
 }
 .hero-latest-btn img {
   border-radius: 60%;
