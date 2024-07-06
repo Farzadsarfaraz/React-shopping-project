@@ -11,11 +11,11 @@ function ShopCategory(props) {
 
   return (
     <div className="shop-category">
-      <img src={props.banner} alt='' className='shop-category-img'/>
+      <div  className='shop-category-banner'>
+      <img src={props.banner} alt=''/>
+      </div>
       <div className="shopcategory-indexSort">
-      <p>
-      <span>Showing 1-12</span> out of 36 Products
-      </p>
+      <p><span>Showing 1-12</span> out of 36 Products</p>
       <div className="shoptcategory-sort">
         Sort by <img src={dropdowon_icon} alt=''/>
       </div>
@@ -38,6 +38,9 @@ function ShopCategory(props) {
           return null;
         }
       })}
+    </div>
+    <div className="shopcategory-loadmore">
+      Explore more
     </div>
     </div>
   )
