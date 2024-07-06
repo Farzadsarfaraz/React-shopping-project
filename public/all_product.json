@@ -19,7 +19,7 @@
         "id": 3,
         "name": "orange color blocked",
         "category": "kid",
-        "image": "./kid (3).webp",
+        "image": "./kid (3).jpg",
         "new_price": 85.0,
         "old_price": 120.5
     },
@@ -59,7 +59,7 @@
         "id": 8,
         "name": "orange color blocked",
         "category": "women",
-        "image": "./cl.webp",
+        "image": "./wo1.webp",
         "new_price": 85.0,
         "old_price": 120.5
     },
@@ -67,7 +67,7 @@
         "id": 9,
         "name": "orange color blocked",
         "category": "women",
-        "image": "./cl.webp",
+        "image": "./wo2.webp",
         "new_price": 85.0,
         "old_price": 120.5
     },
@@ -75,7 +75,7 @@
         "id": 10,
         "name": "orange color blocked",
         "category": "women",
-        "image": "./cl.webp",
+        "image": "./wo3.avif",
         "new_price": 85.0,
         "old_price": 120.5
     },

@@ -7,9 +7,9 @@ import Product from "./Pages/Product";
 import Cart from "./Pages/Cart";
 import LoggingSignup from "./Pages/LoggingSignup";
 import Footer from "./components/Footer/Footer";
-import men_banner from './components/assets/pic12.png'
-import women_banner from './components/assets/pic13.png'
-import kid_banner from './components/assets/kid (5).webp'
+import men_banner from './components/assets/men1.png'
+import women_banner from './components/assets/pic16.png'
+import kid_banner from './components/assets/kid1.png'
 
 function App() {
   return (
@@ -21,11 +21,11 @@ function App() {
           <Route path="/mens" element={<ShopCategory banner={men_banner} category="mens"  />} />
           <Route path="/womens" element={<ShopCategory banner={women_banner} category="women" />}/>
           <Route path="/kids" element={<ShopCategory banner={kid_banner} category="kid" />} />
-          <Route path="/product" element={<Product />}>
-            <Route path=":Product" element={<Product />}/>
+          <Route path="/product" element={<Product/>}>
+            <Route path=":ProductId" element={<Product/>}/>
           </Route>
           <Route path="/cart" element={<Cart />} />
-          <Route path="/login" element={<LoggingSignup />}/>
+          <Route path="/login" element={<LoggingSignup/>}/>
         </Routes>
         <Footer/>
       </Router>

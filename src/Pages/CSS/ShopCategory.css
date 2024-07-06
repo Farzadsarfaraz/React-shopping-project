@@ -5,11 +5,11 @@
     width: 80%;
     background: #fec195;
     height: 20%;
-    position: relative;
 }
 .shop-category-banner img{
     height: 100%;
-    width: 200px;
+    width: 250px;
+    margin-bottom: -7px;
 }
 .shopcategory-indexSort{
     display: flex;
