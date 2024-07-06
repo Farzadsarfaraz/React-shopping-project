@@ -26,7 +26,7 @@
     {
         "id": 4,
         "name": "orange color blocked",
-        "category": "mens",
+        "category": "kid",
         "image": "./kid (4).webp",
         "new_price": 85.0,
         "old_price": 120.5
@@ -83,7 +83,7 @@
         "id": 11,
         "name": "orange color blocked",
         "category": "women",
-        "image": "./cl.webp",
+        "image": "./wo4.png",
         "new_price": 85.0,
         "old_price": 120.5
     },
@@ -91,7 +91,7 @@
         "id": 12,
         "name": "orange color blocked",
         "category": "women",
-        "image": "./cl.webp",
+        "image": "./wo5.png",
         "new_price": 85.0,
         "old_price": 120.5
     },
@@ -99,7 +99,7 @@
         "id": 13,
         "name": "orange color blocked",
         "category": "women",
-        "image": "./cl.webp",
+        "image": "./wo6.png",
         "new_price": 85.0,
         "old_price": 120.5
     },
@@ -122,8 +122,32 @@
     {
         "id": 14,
         "name": "orange color blocked",
-        "category": "women",
-        "image": "./cl1.webp",
+        "category": "mens",
+        "image": "./men (1).avif",
+        "new_price": 85.0,
+        "old_price": 120.5
+    },
+    {
+        "id": 14,
+        "name": "orange color blocked",
+        "category": "mens",
+        "image": "./men (1).webp",
+        "new_price": 85.0,
+        "old_price": 120.5
+    },
+    {
+        "id": 14,
+        "name": "orange color blocked",
+        "category": "mens",
+        "image": "./men (2).webp",
+        "new_price": 85.0,
+        "old_price": 120.5
+    },
+    {
+        "id": 14,
+        "name": "orange color blocked",
+        "category": "mens",
+        "image": "./men (1).avif",
         "new_price": 85.0,
         "old_price": 120.5
     }
