@@ -13,6 +13,7 @@ function ShopCategory(props) {
     <div className="shop-category">
       <div  className='shop-category-banner'>
       <img src={props.banner} alt=''/>
+      <h1>Experience the best with us</h1>
       </div>
       <div className="shopcategory-indexSort">
       <p><span>Showing 1-12</span> out of 36 Products</p>

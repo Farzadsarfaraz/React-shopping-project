@@ -6,12 +6,6 @@
 .nav-logo img {
   height: 55px;
   width: 90px;
-  border-top: rgb(218, 154, 154) solid 5px;
-  border-left: rgb(204, 142, 142) solid 15px;
-  border-bottom: rgb(81, 69, 69) solid 5px;
-  border-right: hsl(128, 41%, 45%) solid 15px;
-  border-radius: 20px;
-  margin-top: 10px;
 }
 .nav-menu {
   display: flex;

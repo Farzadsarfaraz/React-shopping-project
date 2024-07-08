@@ -7,15 +7,14 @@ const Footer = () => {
   return (
     <div className="footer">
       <div className="footer-logo">
-        <img src={footer_logo} alt="" />
-        <p>Online Shopping</p>
+        <img src={footer_logo} alt="" width={300}/>
       </div>
       <ul className="footer-links">
-        <li>Company</li>
+        <li>What is Afghan fashion</li>
         <li>Products</li>
-        <li>Offices</li>
+        <li>Our location</li>
         <li>About</li>
-        <li>Contact</li>
+        <li>Help & Contact</li>
       </ul>
       <div className="footer-social-icon">
         <div className="footer-icons-container">

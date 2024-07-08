@@ -20,7 +20,7 @@ const Navbar = () => {
   return (
     <div className={`navbar ${navbar? "sticky" : ""}`}>
       <div className="nav-logo">
-        <Link to='/'><img src={logo} alt="" /></Link>
+        <Link to='/'><img src={logo} alt="" width={200} /></Link>
       </div>
       <nav className="nav-menu">
         <li onClick={() =>{setMenu("shop")}}><Link style={{textDecoration: 'none', color: "red"}} to='/'>Shop</Link>{menu ==="shop"? <hr/> : <></>}</li>

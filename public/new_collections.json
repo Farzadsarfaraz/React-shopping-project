@@ -1,6 +1,6 @@
 [
   {
-    "id": 1,
+    "id": 27,
     "name": "Gandi Aghani",
     "image": "./cl.webp",
     "new_price": 45,
@@ -9,7 +9,7 @@
     "category": "women"
   },
   {
-    "id": 6,
+    "id": 28,
     "name": "Gandi Aghani",
     "image": "./cl1.webp",
     "new_price": 45,
@@ -18,7 +18,7 @@
     "category": "women"
   },
   {
-    "id": 5,
+    "id": 29,
     "name": "Gandi Aghani",
     "image": "./cl2.webp",
     "new_price": 45,
@@ -27,7 +27,7 @@
     "category": "women"
   },
   {
-    "id": 2,
+    "id": 30,
     "name": "Gandi Aghani",
     "image": "./cl1.webp",
     "new_price": 45,
@@ -36,7 +36,7 @@
     "category": "women"
   },
   {
-    "id": 3,
+    "id": 31,
     "name": "Gandi Aghani",
     "image": "./cl2.webp",
     "new_price": 45,
@@ -45,7 +45,7 @@
     "category": "women"
   },
   {
-    "id": 9,
+    "id": 32,
     "name": "Gandi Aghani",
     "image": "./cl.webp",
     "new_price": 45,
@@ -54,7 +54,7 @@
     "category": "women"
   },
   {
-    "id": 9,
+    "id": 33,
     "name": "Gandi Aghani",
     "image": "./Gand1.webp",
     "new_price": 45,
@@ -63,7 +63,7 @@
     "category": "women"
   },
   {
-    "id": 9,
+    "id": 34,
     "name": "Gandi Aghani",
     "image": "./Gand2.webp",
     "new_price": 45,
@@ -72,7 +72,7 @@
     "category": "women"
   },
   {
-    "id": 9,
+    "id": 35,
     "name": "Gandi Aghani",
     "image": "./Gand3.webp",
     "new_price": 45,
@@ -81,7 +81,7 @@
     "category": "women"
   },
   {
-    "id": 9,
+    "id": 36,
     "name": "Gandi Aghani",
     "image": "./Gand4.webp",
     "new_price": 45,
@@ -90,7 +90,7 @@
     "category": "women"
   },
   {
-    "id": 9,
+    "id": 37,
     "name": "Gandi Aghani",
     "image": "./Gand5.webp",
     "new_price": 45,
@@ -99,7 +99,7 @@
     "category": "women"
   },
   {
-    "id": 9,
+    "id": 38,
     "name": "Gandi Aghani",
     "image": "./pic12.png",
     "new_price": 45,
@@ -108,7 +108,7 @@
     "category": "women"
   },
   {
-    "id": 9,
+    "id": 39,
     "name": "Gandi Aghani",
     "image": "./Gand7.webp",
     "new_price": 45,

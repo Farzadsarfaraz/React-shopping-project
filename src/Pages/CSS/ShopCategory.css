@@ -5,6 +5,14 @@
     width: 80%;
     background: #fec195;
     height: 20%;
+    border-radius: 30px;
+    display: flex;
+    align-items: center;
+}
+.shop-category-banner h1{
+    text-decoration: wavy;
+    color: #aa7a59;
+
 }
 .shop-category-banner img{
     height: 100%;

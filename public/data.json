@@ -1,57 +1,64 @@
 [
   {
-    "id": 1,
+    "id": 20,
     "name": "Gandi Aghani",
     "image": "./cloths (1).webp",
     "new_price": 45,
     "old_price": 55,
+    "category": "kid",
     "description": "Afghan Cloths"
   },
   {
-    "id": 6,
+    "id": 21,
     "name": "Gandi Aghani",
     "image": "./cloths (2).webp",
     "new_price": 45,
     "old_price": 55,
+    "category": "kid",
     "description": "Afghan Cloths"
   },
   {
-    "id": 5,
+    "id": 22,
     "name": "Gandi Aghani",
     "image": "./cloths (3).webp",
     "new_price": 45,
     "old_price": 55,
+    "category": "kid",
     "description": "Afghan Cloths"
   },
   {
-    "id": 2,
+    "id": 23,
     "name": "Gandi Aghani",
     "image": "./cloths (4).webp",
     "new_price": 45,
     "old_price": 55,
+    "category": "kid",
     "description": "Afghan Cloths"
   },
   {
-    "id": 3,
+    "id": 24,
     "name": "Gandi Aghani",
     "image": "./cloths (5).webp",
     "new_price": 45,
     "old_price": 55,
+    "category": "kid",
     "description": "Afghan Cloths"
   },
   {
-    "id": 9,
+    "id": 25,
     "name": "Gandi Aghani",
     "image": "./cloths (6).webp",
     "new_price": 45,
     "old_price": 55,
+    "category": "kid",
     "description": "Afghan Cloths"
   },
   {
-    "id": 9,
+    "id": 26,
     "name": "Gandi Aghani",
     "image": "./file (2).png",
     "new_price": 45,
+    "category": "kid",
     "old_price": 55,
     "description": "Afghan Cloths"
   }
