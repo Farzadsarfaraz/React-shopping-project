@@ -1,12 +1,14 @@
 import React from 'react'
+import arrow_icon from '../assets/arrow_icon.png'
+import './Breadcrum.css'
 
 const Breadcrum = (props) => {
 
     const {product} = props;
   return (
     
-    <div>
-        Home {product?.category} and {product?.name}
+    <div className='breadcrum'>
+        Home <img src={arrow_icon}/> SHOP <img src={arrow_icon}/> {product?.category} <img src={arrow_icon}/> {product?.name}
         
         
     </div>
