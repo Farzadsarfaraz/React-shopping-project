@@ -23,9 +23,6 @@ const Footer = () => {
         <div className="footer-icons-container">
           <img src={whatsapp_icon} alt="" width="30px" />
         </div>
-        <div className="footer-icons-container">
-          <img src={instagram_icon} alt="" width="30px" />
-        </div>
       </div>
       <div className="footer-copyright">
         <hr />

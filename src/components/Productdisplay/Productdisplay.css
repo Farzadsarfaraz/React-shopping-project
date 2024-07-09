@@ -1,0 +1,6 @@
+.productdisplay{
+    display: flex;
+}
+.productdisplay img{
+    width: 200px;
+}

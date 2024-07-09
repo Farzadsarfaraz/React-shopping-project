@@ -15,8 +15,6 @@ const Navbar = () => {
       })
       
     })
-
-
   return (
     <div className={`navbar ${navbar? "sticky" : ""}`}>
       <div className="nav-logo">
