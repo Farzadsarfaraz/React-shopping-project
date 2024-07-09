@@ -2,7 +2,7 @@
   {
     "id": 27,
     "name": "Gandi Aghani",
-    "image": "./cl.webp",
+    "image": "cl.webp",
     "new_price": 45,
     "old_price": 55,
     "description": "Afghan Cloths",
@@ -11,7 +11,7 @@
   {
     "id": 28,
     "name": "Gandi Aghani",
-    "image": "./cl1.webp",
+    "image": "cl1.webp",
     "new_price": 45,
     "old_price": 55,
     "description": "Afghan Cloths",
@@ -20,7 +20,7 @@
   {
     "id": 29,
     "name": "Gandi Aghani",
-    "image": "./cl2.webp",
+    "image": "cl2.webp",
     "new_price": 45,
     "old_price": 55,
     "description": "Afghan Cloths",
@@ -29,7 +29,7 @@
   {
     "id": 30,
     "name": "Gandi Aghani",
-    "image": "./cl1.webp",
+    "image": "cl1.webp",
     "new_price": 45,
     "old_price": 55,
     "description": "Afghan Cloths",
@@ -38,7 +38,7 @@
   {
     "id": 31,
     "name": "Gandi Aghani",
-    "image": "./cl2.webp",
+    "image": "cl2.webp",
     "new_price": 45,
     "old_price": 55,
     "description": "Afghan Cloths",
@@ -47,7 +47,7 @@
   {
     "id": 32,
     "name": "Gandi Aghani",
-    "image": "./cl.webp",
+    "image": "cl.webp",
     "new_price": 45,
     "old_price": 55,
     "description": "Afghan Cloths",
@@ -56,7 +56,7 @@
   {
     "id": 33,
     "name": "Gandi Aghani",
-    "image": "./Gand1.webp",
+    "image": "Gand1.webp",
     "new_price": 45,
     "old_price": 55,
     "description": "Afghan Cloths",
@@ -65,7 +65,7 @@
   {
     "id": 34,
     "name": "Gandi Aghani",
-    "image": "./Gand2.webp",
+    "image": "Gand2.webp",
     "new_price": 45,
     "old_price": 55,
     "description": "Afghan Cloths",
@@ -74,7 +74,7 @@
   {
     "id": 35,
     "name": "Gandi Aghani",
-    "image": "./Gand3.webp",
+    "image": "Gand3.webp",
     "new_price": 45,
     "old_price": 55,
     "description": "Afghan Cloths",
@@ -83,7 +83,7 @@
   {
     "id": 36,
     "name": "Gandi Aghani",
-    "image": "./Gand4.webp",
+    "image": "Gand4.webp",
     "new_price": 45,
     "old_price": 55,
     "description": "Afghan Cloths",
@@ -92,7 +92,7 @@
   {
     "id": 37,
     "name": "Gandi Aghani",
-    "image": "./Gand5.webp",
+    "image": "Gand5.webp",
     "new_price": 45,
     "old_price": 55,
     "description": "Afghan Cloths",
@@ -101,7 +101,7 @@
   {
     "id": 38,
     "name": "Gandi Aghani",
-    "image": "./pic12.png",
+    "image": "pic12.png",
     "new_price": 45,
     "old_price": 55,
     "description": "Afghan Cloths",
@@ -110,7 +110,7 @@
   {
     "id": 39,
     "name": "Gandi Aghani",
-    "image": "./Gand7.webp",
+    "image": "Gand7.webp",
     "new_price": 45,
     "old_price": 55,
     "description": "Afghan Cloths",
