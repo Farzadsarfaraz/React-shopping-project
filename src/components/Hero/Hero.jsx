@@ -1,5 +1,5 @@
 import "./Hero.css";
-import HomeImage from "./../assets/pic16.png";
+import HomeImage from "./../assets/prof.webp";
 import logo from "./../assets/rightLogo.gif";
 
 const Hero = () => {
@@ -30,7 +30,7 @@ const Hero = () => {
         </div>
       </div>
       <div className="hero-right">
-        <img src={HomeImage} alt="" />
+        <img src={HomeImage} alt="" width={450} />
       </div>
     </div>
   );
