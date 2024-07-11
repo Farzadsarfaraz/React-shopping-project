@@ -1,5 +1,5 @@
 import "./Popular.css";
-import data_product from "./../../../public/data.json";
+import data_product from "./../../../public/all_product.json";
 import Item from "../Item/Item";
 
 const Popular = () => {
@@ -9,11 +9,16 @@ const Popular = () => {
         <hr/>
       <div className="popular-item">
         {data_product.map((item, i) =>{
+          if(item.id < 23 && item.id > 10){
             return(
-                <div key={i} className="popular-div">
-                     <Item key={i} id={item.id} name={item.name} image ={item.image} new_price = {item.new_price} old_price ={item.old_price} description={item.description}/>
-                </div>
-            ) 
+              <div key={i} className="popular-div">
+                   <Item key={i} id={item.id} name={item.name} image ={item.image} new_price = {item.new_price} old_price ={item.old_price} description={item.description}/>
+              </div>
+          )
+          }else{
+            return ''
+          }
+
         })}
       </div>
     </div>

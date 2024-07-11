@@ -17,8 +17,6 @@ const Product = () => {
       <Productdisplay product = {product}/>
       <DescriptionBos/>
       <RelatedProucts/>
-
-
     </div>
   )
 }

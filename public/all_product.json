@@ -1,24 +1,24 @@
 [
     {
         "id": 1,
-        "name": "orange color blocked",
+        "name":"orange color blocked",
         "category": "kid",
-        "image": "kid (2).webp",
+        "image":"kid (2).webp",
         "new_price": 85.0,
         "old_price": 120.5
     },
     {
         "id": 2,
         "name": "orange color blocked",
-        "category": "kid",
-        "image": "kid (2).webp",
+        "category":"kid",
+        "image":"kid (2).webp",
         "new_price": 85.0,
         "old_price": 120.5
     },
     {
         "id": 3,
         "name": "orange color blocked",
-        "category": "kid",
+        "category":"kid",
         "image": "kid (3).jpg",
         "new_price": 85.0,
         "old_price": 120.5
@@ -26,16 +26,16 @@
     {
         "id": 4,
         "name": "orange color blocked",
-        "category": "kid",
-        "image": "kid (4).webp",
+        "category":"kid",
+        "image":"kid (4).webp",
         "new_price": 85.0,
         "old_price": 120.5
     },
     {
         "id": 5,
         "name": "orange color blocked",
-        "category": "kid",
-        "image": "kid (5).webp",
+        "category":"kid",
+        "image":"kid (5).webp",
         "new_price": 85.0,
         "old_price": 120.5
     },
@@ -43,79 +43,79 @@
         "id": 6,
         "name": "orange color blocked",
         "category": "kid",
-        "image": "kid (6).webp",
+        "image":"kid (6).webp",
         "new_price": 85.0,
         "old_price": 120.5
     },
     {
         "id": 7,
         "name": "orange color blocked",
-        "category": "women",
-        "image": "cl.webp",
+        "category":"women",
+        "image":"cl.webp",
         "new_price": 85.0,
         "old_price": 120.5
     },
     {
         "id": 8,
         "name": "orange color blocked",
-        "category": "women",
-        "image": "wo1.webp",
+        "category":"women",
+        "image":"wo1.webp",
         "new_price": 85.0,
         "old_price": 120.5
     },
     {
         "id": 9,
         "name": "orange color blocked",
-        "category": "women",
-        "image": "wo2.webp",
+        "category":"women",
+        "image":"wo2.webp",
         "new_price": 85.0,
         "old_price": 120.5
     },
     {
         "id": 10,
         "name": "orange color blocked",
-        "category": "women",
-        "image": "wo3.avif",
+        "category":"women",
+        "image":"wo3.avif",
         "new_price": 85.0,
         "old_price": 120.5
     },
     {
         "id": 11,
         "name": "orange color blocked",
-        "category": "women",
-        "image": "wo4.png",
+        "category":"women",
+        "image":"wo4.png",
         "new_price": 85.0,
         "old_price": 120.5
     },
     {
         "id": 12,
         "name": "orange color blocked",
-        "category": "women",
-        "image": "wo5.png",
+        "category":"women",
+        "image":"wo5.png",
         "new_price": 85.0,
         "old_price": 120.5
     },
     {
         "id": 13,
         "name": "orange color blocked",
-        "category": "women",
-        "image": "wo6.png",
+        "category":"women",
+        "image":"wo6.png",
         "new_price": 85.0,
         "old_price": 120.5
     },
     {
         "id": 14,
         "name": "orange color blocked",
-        "category": "women",
-        "image": "cl2.webp",
+        "category":"women",
+        "image":"cl2.webp",
         "new_price": 85.0,
         "old_price": 120.5
     },
     {
         "id": 15,
         "name": "orange color blocked",
-        "category": "women",
-        "image": "cl.webp",
+        "category":"women",
+        "image":"cl.webp",
         "new_price": 85.0,
         "old_price": 120.5
     },
@@ -123,7 +123,7 @@
         "id": 16,
         "name": "orange color blocked",
         "category": "mens",
-        "image": "men (1).avif",
+        "image":"men (1).avif",
         "new_price": 85.0,
         "old_price": 120.5
     },
@@ -131,7 +131,7 @@
         "id": 17,
         "name": "orange color blocked",
         "category": "mens",
-        "image": "men (1).webp",
+        "image":"men (1).webp",
         "new_price": 85.0,
         "old_price": 120.5
     },
@@ -139,7 +139,7 @@
         "id": 18,
         "name": "orange color blocked",
         "category": "mens",
-        "image": "men (2).webp",
+        "image":"men (2).webp",
         "new_price": 85.0,
         "old_price": 120.5
     },
@@ -147,8 +147,188 @@
         "id": 19,
         "name": "orange color blocked",
         "category": "mens",
-        "image": "men (1).avif",
+        "image":"men (1).avif",
         "new_price": 85.0,
         "old_price": 120.5
-    }
+    },
+    {
+        "id": 20,
+        "name": "Gandi Aghani",
+        "image": "./cloths (1).webp",
+        "new_price": 45,
+        "old_price": 55,
+        "category": "kid",
+        "description": "Afghan Cloths"
+      },
+      {
+        "id": 21,
+        "name": "Gandi Aghani",
+        "image": "./cloths (2).webp",
+        "new_price": 45,
+        "old_price": 55,
+        "category": "kid",
+        "description": "Afghan Cloths"
+      },
+      {
+        "id": 22,
+        "name": "Gandi Aghani",
+        "image": "./cloths (3).webp",
+        "new_price": 45,
+        "old_price": 55,
+        "category": "kid",
+        "description": "Afghan Cloths"
+      },
+      {
+        "id": 23,
+        "name": "Gandi Aghani",
+        "image": "./cloths (4).webp",
+        "new_price": 45,
+        "old_price": 55,
+        "category": "kid",
+        "description": "Afghan Cloths"
+      },
+      {
+        "id": 24,
+        "name": "Gandi Aghani",
+        "image": "./cloths (5).webp",
+        "new_price": 45,
+        "old_price": 55,
+        "category": "kid",
+        "description": "Afghan Cloths"
+      },
+      {
+        "id": 25,
+        "name": "Gandi Aghani",
+        "image": "./cloths (6).webp",
+        "new_price": 45,
+        "old_price": 55,
+        "category": "kid",
+        "description": "Afghan Cloths"
+      },
+      {
+        "id": 26,
+        "name": "Gandi Aghani",
+        "image": "./file (2).png",
+        "new_price": 45,
+        "category": "kid",
+        "old_price": 55,
+        "description": "Afghan Cloths"
+      },
+      {
+        "id": 27,
+        "name": "Gandi Aghani",
+        "image":"cl.webp",
+        "new_price": 45,
+        "old_price": 55,
+        "description": "Afghan Cloths",
+        "category": "women"
+      },
+      {
+        "id": 28,
+        "name": "Gandi Aghani",
+        "image":"cl1.webp",
+        "new_price": 45,
+        "old_price": 55,
+        "description": "Afghan Cloths",
+        "category": "women"
+      },
+      {
+        "id": 29,
+        "name": "Gandi Aghani",
+        "image":"cl2.webp",
+        "new_price": 45,
+        "old_price": 55,
+        "description": "Afghan Cloths",
+        "category": "women"
+      },
+      {
+        "id": 30,
+        "name": "Gandi Aghani",
+        "image":"cl1.webp",
+        "new_price": 45,
+        "old_price": 55,
+        "description": "Afghan Cloths",
+        "category": "women"
+      },
+      {
+        "id": 31,
+        "name": "Gandi Aghani",
+        "image":"cl2.webp",
+        "new_price": 45,
+        "old_price": 55,
+        "description": "Afghan Cloths",
+        "category": "women"
+      },
+      {
+        "id": 32,
+        "name": "Gandi Aghani",
+        "image":"cl.webp",
+        "new_price": 45,
+        "old_price": 55,
+        "description": "Afghan Cloths",
+        "category": "women"
+      },
+      {
+        "id": 33,
+        "name": "Gandi Aghani",
+        "image":"Gand1.webp",
+        "new_price": 45,
+        "old_price": 55,
+        "description": "Afghan Cloths",
+        "category": "women"
+      },
+      {
+        "id": 34,
+        "name": "Gandi Aghani",
+        "image":"Gand2.webp",
+        "new_price": 45,
+        "old_price": 55,
+        "description": "Afghan Cloths",
+        "category": "women"
+      },
+      {
+        "id": 35,
+        "name": "Gandi Aghani",
+        "image":"Gand3.webp",
+        "new_price": 45,
+        "old_price": 55,
+        "description": "Afghan Cloths",
+        "category": "women"
+      },
+      {
+        "id": 36,
+        "name": "Gandi Aghani",
+        "image":"Gand4.webp",
+        "new_price": 45,
+        "old_price": 55,
+        "description": "Afghan Cloths",
+        "category": "women"
+      },
+      {
+        "id": 37,
+        "name": "Gandi Aghani",
+        "image":"Gand5.webp",
+        "new_price": 45,
+        "old_price": 55,
+        "description": "Afghan Cloths",
+        "category": "women"
+      },
+      {
+        "id": 38,
+        "name": "Gandi Aghani",
+        "image":"pic12.png",
+        "new_price": 45,
+        "old_price": 55,
+        "description": "Afghan Cloths",
+        "category": "women"
+      },
+      {
+        "id": 39,
+        "name": "Gandi Aghani",
+        "image":"Gand7.webp",
+        "new_price": 45,
+        "old_price": 55,
+        "description": "Afghan Cloths",
+        "category":"women"
+      }
 ]

@@ -1,5 +1,5 @@
 import { createContext } from "react";
-import NewCollectionsjson from '../../public/new_collections.json'
+import NewCollectionsjson from '../../public/all_product.json'
 
 
 export const ShopContext1 = createContext(null);
