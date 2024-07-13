@@ -11,7 +11,7 @@ import photo10 from "../assets/png (5).png";
 import photo11 from "../assets/Cloth-128.1.webp";
 
 const Hero = () => {
-  const images = [photo1, photo5, photo6, photo8, photo9, photo10, photo11];
+  const images = [photo5, photo11, photo6, photo8, photo9, photo10, photo1];
 
   return (
       <div className="hero">
