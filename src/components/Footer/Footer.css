@@ -1,3 +1,8 @@
+.Wrapper{
+  background: black;
+  display: flex;
+  justify-content: space-around;
+}
 .footer {
   display: flex;
   flex-direction: column;
@@ -18,7 +23,7 @@
   display: flex;
   flex-direction: column;
   list-style: none;
-  color: #252525;
+  color: #ffffff;
   font-size:15px;
 }
 .footer-links li {
@@ -50,4 +55,13 @@
   border-radius: 10px;
   height: 3px;
   background: #c7c7c7;
+}
+.footer2{
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  gap: 20px;
+}
+.footer2 h1, p{
+  color: white;
 }
