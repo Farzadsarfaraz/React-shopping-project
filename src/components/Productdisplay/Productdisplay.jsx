@@ -47,7 +47,7 @@ const Productdisplay = (props) => {
             <div className="productdisplay-right-price-old">${product.old_price}</div>
             <div className="productdisplay-right-price-new">${product.new_price}</div>
           </div>
-          <div className="productdisplay-right-description">sadfsdafsdafsadfsadf</div>
+          <div className="productdisplay-right-description">If you want to order what you want, contact us!</div>
           <div className="product-display-right-size">
             <h1>Select size</h1>
             <div className="productdisplay-righ-sizes">
