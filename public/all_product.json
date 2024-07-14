@@ -322,6 +322,51 @@
         "category": "women"
       },
       {
+        "id": 42,
+        "name": "Gandi Aghani",
+        "image":"wo22 (1).jpg",
+        "new_price": 45,
+        "old_price": 55,
+        "description": "",
+        "category": "women"
+      },
+      {
+        "id": 43,
+        "name": "Gandi Aghani",
+        "image":"wo22 (1).webp",
+        "new_price": 45,
+        "old_price": 55,
+        "description": "",
+        "category": "women"
+      },
+      {
+        "id": 44,
+        "name": "Gandi Aghani",
+        "image":"wo22 (2).jpg",
+        "new_price": 45,
+        "old_price": 55,
+        "description": "",
+        "category": "women"
+      },
+      {
+        "id": 45,
+        "name": "Gandi Aghani",
+        "image":"wo22 (3).jpg",
+        "new_price": 45,
+        "old_price": 55,
+        "description": "",
+        "category": "women"
+      },
+      {
+        "id": 46,
+        "name": "Gandi Aghani",
+        "image":"wo22 (4).jpg",
+        "new_price": 45,
+        "old_price": 55,
+        "description": "",
+        "category": "women"
+      },
+      {
         "id": 38,
         "name": "Gandi Aghani",
         "image":"men (1).avif",
@@ -343,6 +388,24 @@
         "id": 39,
         "name": "Gandi Aghani",
         "image":"men (3).webp",
+        "new_price": 45,
+        "old_price": 55,
+        "description": "",
+        "category":"mens"
+      },
+      {
+        "id": 40,
+        "name": "Gandi Aghani",
+        "image":"men4.webp",
+        "new_price": 45,
+        "old_price": 55,
+        "description": "",
+        "category":"mens"
+      },
+      {
+        "id": 41,
+        "name": "Gandi Aghani",
+        "image":"men5.jpg",
         "new_price": 45,
         "old_price": 55,
         "description": "",
