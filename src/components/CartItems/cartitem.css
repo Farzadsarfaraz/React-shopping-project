@@ -23,6 +23,10 @@
     font-size: 17px;
     font-weight: 500;
 }
+.cartitems-format button{
+    padding: 10px;
+    border-radius: 15px;
+}
 .carticon-product-icon{
     height: 62px;
 }

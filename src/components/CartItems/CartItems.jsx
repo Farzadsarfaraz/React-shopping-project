@@ -47,6 +47,7 @@ const CartItems = () => {
         }
         return null;
       })}
+      <p style={{marginTop: "15px"}}>{getTotalCartAmount() == 0? "The list is empty. Please select a product first." : ""}</p>
       <div className="caritems-down">
       <div>
         <div className="cartitems-total">
