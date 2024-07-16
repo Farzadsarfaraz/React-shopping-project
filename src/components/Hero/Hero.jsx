@@ -9,9 +9,10 @@ import photo8 from "../assets/png (3).png";
 import photo9 from "../assets/png (4).png";
 import photo10 from "../assets/png (5).png";
 import photo11 from "../assets/Cloth-128.1.webp";
+import photo12 from '../assets/mine.png'
 
 const Hero = () => {
-  const images = [photo5, photo11, photo6, photo8, photo9, photo10, photo1];
+  const images = [photo12, photo5, photo11, photo6, photo8, photo9, photo10, photo1];
 
   return (
       <div className="hero">
@@ -36,7 +37,7 @@ const Hero = () => {
           </ul>
         <div className="hero-latest-btn">
           <div>You want to see?</div>
-          <img src={logo} alt="" />
+          <img src={logo} alt="" className="icon-bottom"/>
         </div>
       </div>
       <div className="hero-right">

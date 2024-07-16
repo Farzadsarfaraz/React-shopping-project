@@ -14,7 +14,6 @@
 }
 .item p{
     margin: 6px 0px;
-
 }
 .item-prices{
     display: flex;
@@ -33,5 +32,41 @@
 }
 .item:hover{
     transform: scale(1.05);
-    transition: 0.5s;
+    transition: 0.6s;
 }
+@media (max-width: 1020px){
+    .item{
+        width: 230px;
+        font-size: 14px;
+        margin-bottom: 15px;
+    }
+    .photo-item{
+        width: 100%;
+    }
+    .item-price-old{                    
+        font-size: 14px;
+    }
+    .item-price-new{
+        font-size: 14px;
+    }
+  }
+  @media(max-width: 800px ){
+    .item{
+        width: 120px;
+        font-size: 13px;
+    }
+    .photo-item{
+        margin-top: 20px;
+        width: 140px;
+        height: 200px;
+    }
+    .item-price-old{
+        font-size: 12px;
+    }
+    .item-price-new{
+        font-size: 12px;
+    }
+    .item p{
+        font-size: 15px;
+    }
+  }
