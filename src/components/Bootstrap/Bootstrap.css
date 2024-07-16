@@ -1,9 +1,28 @@
 .image-slider {
     width: 500px;
-    height: 70vh;
+    height: 80vh;
   }
   .image-slider img {
     max-width: 100%;
     border-radius: 30px;
-    height: 76vh;
+   
   }
+@media(max-width: 1024px){
+  .image-slider {
+    height: 50vh;
+    width: 300px;
+  }
+  .image-slider img{
+    width: 200px;
+  }
+
+}
+@media(max-width: 744px){
+  .image-slider {
+    height: 50vh;
+    width: 200px;
+  }
+  .image-slider img{
+    width: 200px;
+  }
+}
