@@ -68,3 +68,19 @@
 .footer2 p{
   color: white;
 }
+@media(max-width: 800px){
+  .Wrapper{
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  .footer-links{
+    font-size: 17px;
+  }
+  .footer2{
+    margin-bottom: 20px;
+    font-size: 17px;
+  }
+  }
+
+

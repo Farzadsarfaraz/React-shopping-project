@@ -9,11 +9,11 @@
   }
 @media(max-width: 1024px){
   .image-slider {
-    height: 50vh;
-    width: 300px;
+    height: 60vh;
+    width: 400px;
   }
   .image-slider img{
-    width: 200px;
+    width: 300px;
   }
 
 }
