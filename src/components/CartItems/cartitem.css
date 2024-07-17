@@ -100,3 +100,14 @@
     color: white;
     cursor: pointer;
 }
+
+@media(max-width: 1280px){
+    .cartitems-format-main{
+       display: none;
+       grid-template-columns: 0.5fr 3fr 0.5fr;
+       gap: 10px;
+}
+.cartitems-format{
+    display: grid;
+}
+}
