@@ -17,8 +17,6 @@ const Footer = () => {
         <li>About</li>
         <li>Help & Contact</li>
       </ul>
-      <div className="footer-copyright">
-      </div>
     </div>
     <div className="footer2">
       <h1>USEFUL LINKS</h1>

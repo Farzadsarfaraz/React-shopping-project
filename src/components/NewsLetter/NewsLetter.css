@@ -10,6 +10,7 @@
     margin-bottom: 150px;
     background: linear-gradient(180deg, #fde1ff 0%, #e1ffea22 60%);
     gap: 30px;
+    overflow-x: hidden;
 }
 .newsletter h1{
     color: #454545;
@@ -103,6 +104,7 @@
     .newsletter{
         margin-bottom: 30px;
         height: 35vh;
+        width: 100%;
     }
     .newsletter h1{
         font-size: 16px;
@@ -128,7 +130,6 @@
 @media(max-width: 500px){
     .newsletter{
         height: 25vh;
-        width: 100%;
         padding: 0;
         gap: 15px;
     }
