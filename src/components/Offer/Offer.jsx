@@ -8,7 +8,7 @@ const Offer = () => {
         <h1>EXCLUSIVE</h1>
         <h1>OFFERS FOR YOU</h1>
         <p>ONLY ON BEST SELLERS PRODUCTS</p>
-        <button>Check Now</button>
+        <button onClick={() =>alert("Sorry at the moment we do not have any offer")}>Check Now</button>
       </div>
       <div className="offers-right">
         <img src={exclusiveImage} alt="" width="350px" />
