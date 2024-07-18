@@ -6,6 +6,7 @@
     gap: 20px;
     width: 100%;
     margin-bottom: 100px;
+    overflow-x: hidden;
 }
 .new-collections h1{
     color: #171717;

@@ -1,245 +1,236 @@
 [
-    {
-        "id": 1,
-        "name":"orange color blocked",
-        "category": "kid",
-        "image":"kid (6).webp",
-        "new_price": 85.0,
-        "old_price": 120.5
-    },
-    {
-        "id": 2,
-        "name": "orange color blocked",
-        "category":"kid",
-        "image":"kid (4).webp",
-        "new_price": 85.0,
-        "old_price": 120.5
-    },
-    {
-        "id": 3,
-        "name": "orange color blocked",
-        "category":"kid",
-        "image": "kid (3).jpg",
-        "new_price": 85.0,
-        "old_price": 120.5
-    },
-    {
-        "id": 4,
-        "name": "orange color blocked",
-        "category":"kid",
-        "image":"kid (2).webp",
-        "new_price": 85.0,
-        "old_price": 120.5
-    },
-    {
-        "id": 5,
-        "name": "orange color blocked",
-        "category":"kid",
-        "image":"kid (5).webp",
-        "new_price": 85.0,
-        "old_price": 120.5
-    },
-    {
-        "id": 6,
-        "name": "orange color blocked",
-        "category": "kid",
-        "image":"kid (1).webp",
-        "new_price": 85.0,
-        "old_price": 120.5
-    },
-    {
-        "id": 7,
-        "name": "orange color blocked",
-        "category":"women",
-        "image":"wo (1).webp",
-        "new_price": 85.0,
-        "old_price": 120.5
-    },
-    {
-        "id": 8,
-        "name": "orange color blocked",
-        "category":"women",
-        "image":"wo (1).png",
-        "new_price": 85.0,
-        "old_price": 120.5
-    },
-    {
-        "id": 9,
-        "name": "orange color blocked",
-        "category":"women",
-        "image":"wo (1).jpg",
-        "new_price": 85.0,
-        "old_price": 120.5
-    },
-    {
-        "id": 10,
-        "name": "orange color blocked",
-        "category":"women",
-        "image":"wo (3).png",
-        "new_price": 85.0,
-        "old_price": 120.5
-    },
-    {
-        "id": 11,
-        "name": "orange color blocked",
-        "category":"women",
-        "image":"wo (2).png",
-        "new_price": 85.0,
-        "old_price": 120.5
-    },
-    {
-        "id": 12,
-        "name": "orange color blocked",
-        "category":"women",
-        "image":"wo (2).jpg",
-        "new_price": 85.0,
-        "old_price": 120.5
-    },
-    {
-        "id": 13,
-        "name": "orange color blocked",
-        "category":"women",
-        "image":"wo (2).webp",
-        "new_price": 85.0,
-        "old_price": 120.5
-    },
-    {
-        "id": 14,
-        "name": "orange color blocked",
-        "category":"women",
-        "image":"wo (3).webp",
-        "new_price": 85.0,
-        "old_price": 120.5
-    },
-    {
-        "id": 15,
-        "name": "orange color blocked",
-        "category":"women",
-        "image":"wo (3).webp",
-        "new_price": 85.0,
-        "old_price": 120.5
-    },
-    {
-        "id": 16,
-        "name": "orange color blocked",
-        "category":"women",
-        "image":"wo (4).webp",
-        "new_price": 85.0,
-        "old_price": 120.5
-    },
-    {
-        "id": 17,
-        "name": "orange color blocked",
-        "category": "women",
-        "image":"wo (4).png",
-        "new_price": 95.0,
-        "old_price": 120.5
-    },
-    {
-        "id": 17,
-        "name": "orange color blocked",
-        "category": "women",
-        "image":"wo (5).webp",
-        "new_price": 85.0,
-        "old_price": 120.5
-    },
-    {
-        "id": 18,
-        "name": "orange color blocked",
-        "category": "women",
-        "image":"wo (5).png",
-        "new_price": 85.0,
-        "old_price": 120.5
-    },
-    {
-        "id": 19,
-        "name": "orange color blocked",
-        "category": "women",
-        "image":"wo (21).webp",
-        "new_price": 15.0,
-        "old_price": 120.5
-    },
-    {
-        "id": 20,
-        "name": "Gandi Aghani",
-        "image": "wo (6).webp",
-        "new_price": 35,
-        "old_price": 55,
-        "category": "women",
-        "description": ""
-      },
-      {
-        "id": 21,
-        "name": "Gandi Aghani",
-        "image": "wo (7).webp",
-        "new_price": 45,
-        "old_price": 55,
-        "category": "women",
-        "description": ""
-      },
-      {
-        "id": 22,
-        "name": "Gandi Aghani",
-        "image": "wo (7).png",
-        "new_price": 45,
-        "old_price": 55,
-        "category": "women",
-        "description": ""
-      },
-      {
-        "id": 23,
-        "name": "Gandi Aghani",
-        "image": "wo (8).webp",
-        "new_price": 45,
-        "old_price": 55,
-        "category": "women",
-        "description": ""
-      },
-      {
-        "id": 24,
-        "name": "Gandi Aghani",
-        "image": "wo (8).png",
-        "new_price": 45,
-        "old_price": 55,
-        "category": "women",
-        "description": ""
-      },
-      {
-        "id": 25,
-        "name": "Gandi Aghani",
-        "image": "wo (9).webp",
-        "new_price": 45,
-        "old_price": 55,
-        "category": "women",
-        "description": ""
-      },
-      {
-        "id": 26,
-        "name": "Gandi Aghani",
-        "image": "wo (10).webp",
-        "new_price": 45,
-        "category": "women",
-        "old_price": 55,
-        "description": ""
-      },
-      {
-        "id": 27,
-        "name": "Gandi Aghani",
-        "image":"wo (11).webp",
-        "new_price": 45,
-        "old_price": 55,
-        "description": "",
-        "category": "women"
-      },
-      {
-        "id": 28,
-        "name": "Gandi Aghani",
-        "image":"wo (12).webp",
-        "new_price": 45,
-        "old_price": 55,
-        "description": "",
-        "category": "women"
-      },
+  {
+      "id": 1,
+      "name": "Sunny Color Block",
+      "category": "kid",
+      "image": "kid (6).webp",
+      "new_price": 90.0,
+      "old_price": 130.0
+  },
+  {
+      "id": 2,
+      "name": "Bright Blocks",
+      "category": "kid",
+      "image": "kid (4).webp",
+      "new_price": 80.0,
+      "old_price": 125.0
+  },
+  {
+      "id": 3,
+      "name": "Vivid Color Blocks",
+      "category": "kid",
+      "image": "kid (3).jpg",
+      "new_price": 85.0,
+      "old_price": 120.0
+  },
+  {
+      "id": 4,
+      "name": "Playful Blocks",
+      "category": "kid",
+      "image": "kid (2).webp",
+      "new_price": 88.0,
+      "old_price": 122.5
+  },
+  {
+      "id": 5,
+      "name": "Cheerful Color Blocks",
+      "category": "kid",
+      "image": "kid (5).webp",
+      "new_price": 82.0,
+      "old_price": 118.0
+  },
+  {
+      "id": 6,
+      "name": "Youthful Blocks",
+      "category": "kid",
+      "image": "kid (1).webp",
+      "new_price": 87.0,
+      "old_price": 119.0
+  },
+  {
+      "id": 7,
+      "name": "Tangerine Color Block",
+      "category": "women",
+      "image": "wo (1).webp",
+      "new_price": 92.0,
+      "old_price": 135.0
+  },
+  {
+      "id": 8,
+      "name": "Sunset Stripes",
+      "category": "women",
+      "image": "wo (1).png",
+      "new_price": 89.0,
+      "old_price": 130.0
+  },
+  {
+      "id": 9,
+      "name": "Orange Fusion",
+      "category": "women",
+      "image": "wo (1).jpg",
+      "new_price": 91.0,
+      "old_price": 128.0
+  },
+  {
+      "id": 10,
+      "name": "Citrus Breeze",
+      "category": "women",
+      "image": "wo (3).png",
+      "new_price": 93.0,
+      "old_price": 132.0
+  },
+  {
+      "id": 11,
+      "name": "Tropical Block",
+      "category": "women",
+      "image": "wo (2).png",
+      "new_price": 95.0,
+      "old_price": 140.0
+  },
+  {
+      "id": 12,
+      "name": "Coral Charm",
+      "category": "women",
+      "image": "wo (2).jpg",
+      "new_price": 85.0,
+      "old_price": 125.0
+  },
+  {
+      "id": 13,
+      "name": "Peachy Keen",
+      "category": "women",
+      "image": "wo (2).webp",
+      "new_price": 84.0,
+      "old_price": 120.0
+  },
+  {
+      "id": 14,
+      "name": "Golden Hour",
+      "category": "women",
+      "image": "wo (3).webp",
+      "new_price": 86.0,
+      "old_price": 123.0
+  },
+  {
+      "id": 15,
+      "name": "Summer Hues",
+      "category": "women",
+      "image": "wo (3).webp",
+      "new_price": 88.0,
+      "old_price": 121.0
+  },
+  {
+      "id": 16,
+      "name": "Citrus Delight",
+      "category": "women",
+      "image": "wo (4).webp",
+      "new_price": 87.0,
+      "old_price": 120.0
+  },
+  {
+      "id": 17,
+      "name": "Sunset Glow",
+      "category": "women",
+      "image": "wo (4).png",
+      "new_price": 95.0,
+      "old_price": 130.0
+  },
+  {
+      "id": 18,
+      "name": "Tangerine Dream",
+      "category": "women",
+      "image": "wo (5).webp",
+      "new_price": 85.0,
+      "old_price": 120.5
+  },
+  {
+      "id": 19,
+      "name": "Orange Burst",
+      "category": "women",
+      "image": "wo (5).png",
+      "new_price": 82.0,
+      "old_price": 125.0
+  },
+  {
+      "id": 20,
+      "name": "Golden Sunrise",
+      "category": "women",
+      "image": "wo (21).webp",
+      "new_price": 15.0,
+      "old_price": 120.5
+  },
+  {
+      "id": 21,
+      "name": "Gandi Aghani",
+      "image": "wo (6).webp",
+      "new_price": 35.0,
+      "old_price": 55.0,
+      "category": "women",
+      "description": "Elegant traditional wear."
+  },
+  {
+      "id": 22,
+      "name": "Classic Aghani",
+      "image": "wo (7).webp",
+      "new_price": 45.0,
+      "old_price": 55.0,
+      "category": "women",
+      "description": "Timeless design with modern touches."
+  },
+  {
+      "id": 23,
+      "name": "Modern Aghani",
+      "image": "wo (7).png",
+      "new_price": 50.0,
+      "old_price": 60.0,
+      "category": "women",
+      "description": "A blend of tradition and modernity."
+  },
+  {
+      "id": 24,
+      "name": "Elegant Aghani",
+      "image": "wo (8).webp",
+      "new_price": 47.0,
+      "old_price": 57.0,
+      "category": "women",
+      "description": "Sophisticated and chic."
+  },
+  {
+      "id": 25,
+      "name": "Chic Aghani",
+      "image": "wo (8).png",
+      "new_price": 46.0,
+      "old_price": 56.0,
+      "category": "women",
+      "description": "Stylish with traditional elements."
+  },
+  {
+      "id": 26,
+      "name": "Stylish Aghani",
+      "image": "wo (9).webp",
+      "new_price": 48.0,
+      "old_price": 58.0,
+      "category": "women",
+      "description": "Trendy and comfortable."
+  },
+  {
+      "id": 27,
+      "name": "Traditional Aghani",
+      "image": "wo (10).webp",
+      "new_price": 44.0,
+      "old_price": 54.0,
+      "category": "women",
+      "description": "Classic design with a modern twist."
+  },
+  {
+      "id": 28,
+      "name": "Gandi Aghani",
+      "image": "wo (11).webp",
+      "new_price": 45.0,
+      "old_price": 55.0,
+      "description": "",
+      "category": "women"
+  },
       {
         "id": 29,
         "name": "Gandi Aghani",

@@ -17,10 +17,6 @@
     font-size: 55px;
     font-weight: 600;
 }
-.newsletter h1{
-    color: #454545;
-    font-size: 20px;
-}
 .newsletter div{
     display: flex;
     align-items: center;
@@ -37,7 +33,6 @@
     border: none;
     outline: none;
     color: #616161;
-    font-family: poppins;
     font-size: 16px;
 }
 .newsletter div button{
@@ -78,7 +73,6 @@
 @media(max-width: 1024px){
     .newsletter{
         margin-bottom: 60px;
-
     }
     .newsletter h1{
         font-size: 26px;
@@ -104,7 +98,7 @@
     .newsletter{
         margin-bottom: 30px;
         height: 35vh;
-        width: 100%;
+
     }
     .newsletter h1{
         font-size: 16px;
