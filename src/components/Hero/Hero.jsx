@@ -12,7 +12,7 @@ import photo11 from "../assets/Cloth-128.1.webp";
 
 const Hero = () => {
   const images = [photo5, photo11, photo6, photo8, photo9, photo10, photo1];
-
+  
   return (
       <div className="hero">
       <div className="hero-left">
@@ -34,7 +34,7 @@ const Hero = () => {
             <li>Mehndi Dresses</li>
             <li>Party Dresses</li>
           </ul>
-        <div className="hero-latest-btn">
+        <div onClick={()=>window.scrollTo({top: 700, behavior: 'smooth'})} className="hero-latest-btn">
           <div>You want to see?</div>
           <img src={logo} alt="" className="icon-bottom"/>
         </div>

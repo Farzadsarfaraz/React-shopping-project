@@ -15,7 +15,7 @@ function ShopCategory(props) {
       </div>
       <div className="shopcategory-indexSort">
       <p><span>Showing 1-12</span> out of 36 Products</p>
-      <div className="shoptcategory-sort">
+      <div onClick={()=>alert("This Function is not still working. Try later please!")} className="shoptcategory-sort">
         Sort by <img src={dropdowon_icon} alt=''/>
       </div>
       
