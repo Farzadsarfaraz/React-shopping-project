@@ -67,7 +67,7 @@ const CartItems = () => {
             <h3>Total</h3>
             <h3>${getTotalCartAmount()}</h3>
           </div>
-          <button>PROEED TO CHECKOUT</button>
+          <button onClick={()=> getTotalCartAmount() === 0 ? alert("Add a product please") : alert("At the moment is not the product available. Sorry!")}>PROEED TO CHECKOUT</button>
         </div>   
       </div>
       <div className="cartitem-promocode">
