@@ -10,7 +10,6 @@ const Productdisplay = (props) => {
 
     const {product} = props;
     const {addToCart} = useContext(ShopContext)
-    console.log(product?.image);
   return (
     <div className='productdisplay'>
     <div className='productdisplay-left'>

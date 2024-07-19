@@ -1,10 +1,9 @@
 import React from "react";
 import "./Footer.css";
 import footer_logo from "../assets/logo.png";
-import instagram_icon from "../assets/instagram.png";
-import whatsapp_icon from "../assets/whatsapp.png";
-
+import { useNavigate } from "react-router-dom";
 const Footer = () => {
+  const navigate = useNavigate();
 
   const [result, setResult] = React.useState("");
 
@@ -44,31 +43,31 @@ const Footer = () => {
         <li>About</li>
         <li>Help & Contact</li>
       </ul>
-      <div class="card">
+      <div className="card">
   <ul>
-    <li class="iso-pro">
+    <li className="iso-pro">
       <span></span>
       <span></span>
       <span></span>
-      <a href="">
+      <a  onClick={()=> window.location.href = "https://www.facebook.com/Farzad004/"}>
         <svg
           viewBox="0 0 320 512"
           xmlns="http://www.w3.org/2000/svg"
-          class="svg"
+          className="svg"
         >
           <path
             d="M279.14 288l14.22-92.66h-88.91v-60.13c0-25.35 12.42-50.06 52.24-50.06h40.42V6.26S260.43 0 225.36 0c-73.22 0-121.08 44.38-121.08 124.72v70.62H22.89V288h81.39v224h100.17V288z"
           ></path></svg
       ></a>
-      <div class="text">Facebook</div>
+      <div className="text">Facebook</div>
     </li>
-    <li class="iso-pro">
+    <li className="iso-pro">
       <span></span>
       <span></span>
       <span></span>
       <a href="">
         <svg
-          class="svg"
+          className="svg"
           xmlns="http://www.w3.org/2000/svg"
           viewBox="0 0 512 512"
         >
@@ -77,15 +76,15 @@ const Footer = () => {
           ></path>
         </svg>
       </a>
-      <div class="text">Twitter</div>
+      <div className="text">Twitter</div>
     </li>
-    <li class="iso-pro">
+    <li className="iso-pro">
       <span></span>
       <span></span>
       <span></span>
-      <a href="">
+      <a  onClick={()=> window.location.href = "https://www.instagram.com/farzad_sarfaraz/"}>
         <svg
-          class="svg"
+          className="svg"
           xmlns="http://www.w3.org/2000/svg"
           viewBox="0 0 448 512"
         >
@@ -94,7 +93,7 @@ const Footer = () => {
           ></path>
         </svg>
       </a>
-      <div class="text">Instagram</div>
+      <div className="text">Instagram</div>
     </li>
   </ul>
 </div>
@@ -123,7 +122,7 @@ const Footer = () => {
       </div>
     </div>
     </div>
-  );
+  )
 };
 
 export default Footer;
