@@ -10,8 +10,7 @@
 }
 .shop-category-banner h1{
     text-decoration: wavy;
-    color: #aa7a59;
-
+    color: #897567;
 }
 .shop-category-banner img{
     height: 100%;
@@ -90,6 +89,9 @@
         height: 60px;
         font-size: 16px;
     }
+    .shop-category-banner h1{
+        font-size:25px;
+    }
 }
 @media (max-width: 800px){
     .shop-category-banner{
@@ -104,9 +106,16 @@
         height: 40px;
         font-size: 13px;
     }
+    .shop-category-banner h1{
+        font-size: 20px;
+
+    }
 }
 @media (max-width: 500px){
     .shopcategory-products{
         grid-template-columns: 1fr 1fr;
+    }
+    .shop-category-banner h1{
+        display: none;
     }
 }
