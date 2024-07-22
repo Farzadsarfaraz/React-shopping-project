@@ -40,5 +40,10 @@
     "gh-pages": "^6.1.1",
     "lite-server": "^2.6.1",
     "vite": "^5.3.1"
-  }
+  },
+  "description": "![Screenshot 2024-07-10 183052](https://github.com/Farzadsarfaraz/React-shopping-project/assets/129787719/0c494ae1-3d18-4564-a55c-969aa43d9d6c)\r ![Screenshot 2024-07-10 182929](https://github.com/Farzadsarfaraz/React-shopping-project/assets/129787719/7efa8d48-9736-4c45-a40c-afeb871d4488)",
+  "main": "vite.config.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }

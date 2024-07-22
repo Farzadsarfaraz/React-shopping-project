@@ -1,6 +1,6 @@
-import React from "react";
+import React, { useEffect, useState } from "react";
 import "./RelatedProucts.css";
-import data_product from "../../../public/all_product.json";
+/* import data_product from "../../../public/all_product.json"; */
 import Item from "../Item/Item";
 // Import Swiper React components
 import { Swiper, SwiperSlide } from "swiper/react";
@@ -11,8 +11,24 @@ import "swiper/css/pagination";
 import "./styles.css";
 // import required modules
 import { FreeMode, Pagination } from "swiper/modules";
+import axios from "axios";
 
 export default function Slider() {
+
+  const [data_product, setData_product] = useState([])
+
+  useEffect(() => {
+    const fetchData = async () => {
+      try {
+        const response = await axios.get("http://localhost:3001/product");
+        setData_product(response.data);
+      } catch (error) {
+        console.error('Error fetching data:', error);
+      }
+    };
+    fetchData();
+  }, []);
+
   return (
     <>
       <Swiper
