@@ -36,6 +36,15 @@
 .shoptcategory-sort img{
     height: 15px;
     width: 15px;
+    rotate: -90deg;
+}
+.shoptcategory-sort input{
+    border-radius: 5px;
+    height: 25px;
+    width: 90px;
+}
+.inputPrice{
+    display: none;
 }
 .shopcategory-indexSort p span {
     font-weight: 600;
@@ -117,5 +126,16 @@
     }
     .shop-category-banner h1{
         display: none;
+    }
+    .shop-category-banner img{
+        height: 100%;
+        width: 150px;
+        margin-left: 20px;
+    }
+    .shoptcategory-sort input{
+        border-radius: 5px;
+        height: 20px;
+        width: 60px;
+        font-size: 10px;
     }
 }

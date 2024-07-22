@@ -9,7 +9,7 @@ import LoggingSignup from "./Pages/LoggingSignup";
 import Footer from "./components/Footer/Footer";
 import men_banner from "./components/assets/men1.png";
 import women_banner from "./components/assets/pic16.png";
-import kid_banner from "./components/assets/kid1.png";
+import kid_banner from "./components/assets/kidd.png";
 
 function App() {
   return (
