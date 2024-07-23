@@ -27,12 +27,10 @@ function ShopCategory(props) {
         <img src={props.banner} alt=""/>
         <h1>Experience the best with us</h1>
       </div>
-
-
       <div className="shopcategory-indexSort">
         <div>
-        <div onClick={()=>setSorting(true)} className="shoptcategory-sort">
-          Sort by price<img src={dropdowon_icon} alt="" />
+        <div className="shoptcategory-sort">
+          <p onClick={()=>setSorting(sorting? false : true)}>Sort by price<img src={dropdowon_icon} alt="" /></p>
           <input 
         placeholder="Enter a price" className={sorting? "" : "inputPrice"}
         onChange={(e) => setFiltering(Number(e.target.value) || '')} 
