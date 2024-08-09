@@ -1,6 +1,7 @@
 
 import { useState } from 'react'
 import './CSS/LoggingSignup.css'
+import { json } from 'react-router-dom'
 const LoggingSignup = () => {
 
 const[state, setState] = useState("Sign Up")
@@ -16,12 +17,42 @@ const changeHandler =(e)=>{
 
 const login = async() =>{
   console.log(formatData)
+  let responseData;
+  await fetch('http://localhost:4000/login',{
+    method:'POST',
+    headers:{
+      Accept:'application/form-data',
+      'Content-type':'application/json',
+    },
+    body: JSON.stringify(formatData),
+  }).then((Response)=>Response.json()).then((data)=>responseData = data)
+  if(responseData.success){
+    localStorage.setItem('auth-token', responseData.token);
+    window.location.replace("/")
+  }else{
+    alert(responseData.errors)
+  }
 
   
 }
 const signup = async() =>{
+  console.log(formatData)
 
-
+  let responseData;
+  await fetch('http://localhost:4000/signup',{
+    method:'POST',
+    headers:{
+      Accept:'application/form-data',
+      'Content-type':'application/json',
+    },
+    body: JSON.stringify(formatData),
+  }).then((Response)=>Response.json()).then((data)=>responseData = data)
+  if(responseData.success){
+    localStorage.setItem('auth-token', responseData.token);
+    window.location.replace("/")
+  }else{
+    alert(responseData.errors)
+  }
 }
 
   return (
