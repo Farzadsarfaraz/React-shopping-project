@@ -32,8 +32,6 @@ const login = async() =>{
   }else{
     alert(responseData.errors)
   }
-
-  
 }
 const signup = async() =>{
   console.log(formatData)
